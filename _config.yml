@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Raj Chawla"
 title_separator          : "-"
 name                     : &name "Raj Chawla"
-description              : &description "Graduate Student Rajiv Gandhi Institute of Petroleum Technology"
+description              : &description "Graduate Student Energy Institute Bengaluru, Rajiv Gandhi Institute of Petroleum Technology"
 url                      : https://raj-chawla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "raj-chawla.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Raj Chawla"
   avatar           : "profile.jpg"
-  bio              : "Graduate Student [Rajiv Gandhi Institute of Petroleum Technology](https://rgipt.ac.in)"
+  bio              : "Graduate Student Rajiv Gandhi Institute of Petroleum Technology"
   location         : "Bengaluru"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
