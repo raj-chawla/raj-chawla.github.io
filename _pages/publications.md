@@ -39,6 +39,3 @@ author_profile: true
 
 An updated list of publications and citations is available here: [Google Scholar](https://scholar.google.com/citations?user=OBlaIGYAAAAJ&hl=en)  
 
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-
-  You can also find my articles on <u><a href="{{user=OBlaIGYAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
