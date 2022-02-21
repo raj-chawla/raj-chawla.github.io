@@ -37,5 +37,5 @@ author_profile: true
 
 
 
-An updated list of publications and citations is available here: [Google Scholar](https://scholar.google.com/citations?user=OBlaIGYAAAAJ&hl=en)  
+An updated list of publications and citation is available here: [Google Scholar](https://scholar.google.com/citations?user=OBlaIGYAAAAJ&hl=en)  
 
