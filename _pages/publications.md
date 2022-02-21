@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 
-  You can also find my articles on <u><a href="{{author.googlescholar}}">https://scholar.google.com/citations?user=OBlaIGYAAAAJ&hl=en</a>.</u>
+  You can also find my articles on <u><a href="{{OBlaIGYAAAAJ&hl}}">https://scholar.google.com/citations?user=OBlaIGYAAAAJ&hl=en</a>.</u>
 
 
 
