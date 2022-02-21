@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## JOURNAL PAPERS
 
-8. Dhawan, M., & Chawla, R. (2019). A computational study on thermo-mechanical characterization of carbon nanotube reinforced natural rubber. MRS Advances, 4(20), 1161-1166. [doi:10.1557/adv.2018.680](https://www.cambridge.org/core/journals/mrs-advances/article/abs/computational-study-on-thermomechanical-characterization-of-carbon-nanotube-reinforced-natural-rubber/906B1D98624349A3AB72667479700800)
+8. Dhawan, M., & Chawla, R. (2019). A computational study on thermo-mechanical characterization of carbon nanotube reinforced natural rubber. MRS Advances, 4(20), 1161-1166. [doi:10.1557/adv.2018.680] HREF (https://www.cambridge.org/core/journals/mrs-advances/article/abs/computational-study-on-thermomechanical-characterization-of-carbon-nanotube-reinforced-natural-rubber/906B1D98624349A3AB72667479700800)
 7. Chawla, R., Dhawan, M., & Sharma, S. (2019). A molecular dynamics study to predict the friction and wear behavior of carbon nanotube reinforced styrene-butadiene rubber. Proceedings of the Institution of Mechanical Engineers, Part J: Journal of Engineering Tribology, 233(10), 1565-1573. [doi:10.1177/1350650119836812](https://journals.sagepub.com/doi/10.1177/1350650119836812)
 6. Dhawan, M., Sharma, S., & Chawla, R. (2019). Variation of interfacial properties during carbon nanotube pullout from natural rubber. Composite Interfaces, 26(7), 611-623. [doi:10.1080/09276440.2018.1522191](https://www.tandfonline.com/doi/abs/10.1080/09276440.2018.1522191?journalCode=tcoi20)
 5. Chawla, R. (2018). Sliding Tribological Behavior of Carbon Nanotube/Natural Rubber Composites. Tribology in Industry, 40(2). [doi:10.24874/ti.2018.40.02.10](http://tribology.rs/journals/2018/2018-2/2018-2-10.html)
