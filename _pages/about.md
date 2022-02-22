@@ -29,11 +29,11 @@ Graduate Student at [Energy Institute Bengaluru, Rajiv Gandhi Institute of Petro
 **Education**
 ------
 
-M.Tech. in Power and Energy Systems Engineering (2021-Present)
-- Energy Institute Bengaluru, Rajiv Gandhi Institute of Petroleum Technology, Jais, Amethi, Uttar Pradesh, India
+- M.Tech. in Power and Energy Systems Engineering (2021-Present)
+-- Energy Institute Bengaluru, Rajiv Gandhi Institute of Petroleum Technology, Jais, Amethi, Uttar Pradesh, India
 
-B.Tech(Hons.) in Mechanical Engineering (2018)
-- Lovely Professional University, Punjab, India
+-B.Tech(Hons.) in Mechanical Engineering (2018)
+-- Lovely Professional University, Punjab, India
 
 
 
