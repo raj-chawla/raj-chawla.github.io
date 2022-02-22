@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-**About me**
-======
-Raj Chawla, B.Tech
+Raj Chawla, B.Tech.
 ======
 Graduate Student at [Energy Institute Bengaluru, Rajiv Gandhi Institute of Petroleum Technology](https://rgipt.ac.in/en/page/bangalore)
 
 
 **Research Interests**
+------
 
 - Deep Reinforcement Learning applications to Power Systems
 - Power Systems - Transmission and Distribution Co-Simulation
@@ -28,6 +27,7 @@ Graduate Student at [Energy Institute Bengaluru, Rajiv Gandhi Institute of Petro
 - Tribology
 
 **Education**
+------
 
 M.Tech. in Power and Energy Systems Engineering (2021-Present)
 - Energy Institute Bengaluru, Rajiv Gandhi Institute of Petroleum Technology, Jais, Amethi, Uttar Pradesh, India
