@@ -15,6 +15,6 @@ author_profile: true
 - Student’s Research Convention (North Zone)-**ANVESHAN 2015**
 - Lovely Professional University Undergraduate Scholarship for Technical Education 2013
 - **INSPIRE-SHE** Scholarship for Higher Education, Department of Science & Technology, Government of India 2013
-- Secured **First Position in District** for Class 12th Exam, State Board,2013
+- Secured **First Position in District** for Class 12th Examination, State Board, 2013
 - Second Position in **District Level General Knowledge Competition**, 2012
 - Team Captain, **Bharat Scouts and Guide**, 2010
