@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 **About me**
+======
 Raj Chawla, B.Tech
-Graduate Student at [Energy Institute Bengaluru, Rajiv Gandhi Institute of Petroleum Technology](
+Graduate Student at [Energy Institute Bengaluru, Rajiv Gandhi Institute of Petroleum Technology](https://rgipt.ac.in/en/page/bangalore)
 
 
 **Research Interests**
