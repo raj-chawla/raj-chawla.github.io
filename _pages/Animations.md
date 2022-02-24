@@ -6,9 +6,7 @@ author_profile: true
 ---
 1. Compression of a CNT/Polymer Composite   
 
-![Before](/images/variation composite PRESPECTIVE VIEW.jpg)
-
-![After](/images/variation composite_finalFrames.jpg)
+![Before](/images/variation composite PRESPECTIVE VIEW.jpg) ![After](/images/variation composite_finalFrames.jpg)
 
 [Watch On YouTube](https://www.youtube.com/watch?v=nlq4OgAtXxM)
 
