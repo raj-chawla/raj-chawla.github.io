@@ -8,7 +8,7 @@ author_profile: true
 
 ![Before](/images/variation composite PRESPECTIVE VIEW.jpg) ![After](/images/variation composite_finalFrames.jpg)
 
-[Watch On YouTube] "target=blank"(https://www.youtube.com/watch?v=nlq4OgAtXxM)
+[Watch On YouTube](https://www.youtube.com/watch?v=nlq4OgAtXxM)
 
 **Water Transport through Carbon Nanotubes**   
 
