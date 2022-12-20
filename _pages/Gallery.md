@@ -8,7 +8,7 @@ author_profile: true
 ---
 To be Updated 
 
- <p align="center">
+<p align="center">
     <img src="https://raj-chawla.github.io/images/TRIBUNE.jpg?raw=true" width="467" height="601">
 </p>   
 
