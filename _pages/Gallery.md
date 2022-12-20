@@ -2,10 +2,10 @@
 ---
 layout: archive
 title: "Gallery"
-permalink: /Gallery/
+permalink: /gallery/
 author_profile: true
 ---
----
+
 To be Updated 
 
 <p align="center">
