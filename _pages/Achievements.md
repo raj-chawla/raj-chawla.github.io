@@ -5,6 +5,7 @@ permalink: /achievements/
 author_profile: true
 ---
 ---
+- Selected for the **High-End Workshop on AI & Data Science for Industry** (SERB-sponsored), January 2023.
 - All India Rank 55 in **UPCET NTA PG 2021** Entrace Exam
 - All India Rank 13 in **National Sugar Institute** ANSI (SE) Entrace Exam, 2021
 - **Bright Spark Award** Info Edge India Ltd Q2 & Q3 2019
